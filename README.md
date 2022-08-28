@@ -1,1 +1,1 @@
-https://public.tableau.com/app/profile/mohammad.r2332/viz/OfficeSuppliesSalesVisualizationProject/StoryOfficeSupplySales
+https://public.tableau.com/views/OfficeSuppliesSalesVisualizationProject/Dashboard1TotalSales?:language=en-US&:display_count=n&:origin=viz_share_link
